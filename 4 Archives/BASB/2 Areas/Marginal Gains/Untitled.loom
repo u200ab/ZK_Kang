@@ -1,0 +1,161 @@
+{
+  "model": {
+    "columns": [
+      {
+        "id": "fc960555-a1cc-4108-a606-97d06a2cc28f",
+        "sortDir": "default",
+        "isVisible": true,
+        "width": "140px",
+        "type": "source",
+        "numberPrefix": "",
+        "numberSuffix": "",
+        "numberSeparator": "",
+        "content": "Source",
+        "numberFormat": "number",
+        "currencyType": "USD",
+        "dateFormat": "mmddyyyy",
+        "dateFormatSeparator": "-",
+        "hour12": true,
+        "includeTime": false,
+        "shouldWrapOverflow": true,
+        "tags": [],
+        "calculationType": "none",
+        "aspectRatio": "unset",
+        "horizontalPadding": "unset",
+        "verticalPadding": "unset",
+        "frontmatterKey": null
+      },
+      {
+        "id": "19e625a2-0144-4ca4-a735-d488ed993ab1",
+        "sortDir": "default",
+        "isVisible": true,
+        "width": "140px",
+        "type": "source-file",
+        "numberPrefix": "",
+        "numberSuffix": "",
+        "numberSeparator": "",
+        "content": "Source File",
+        "numberFormat": "number",
+        "currencyType": "USD",
+        "dateFormat": "mmddyyyy",
+        "dateFormatSeparator": "-",
+        "hour12": true,
+        "includeTime": false,
+        "shouldWrapOverflow": true,
+        "tags": [],
+        "calculationType": "none",
+        "aspectRatio": "unset",
+        "horizontalPadding": "unset",
+        "verticalPadding": "unset",
+        "frontmatterKey": null
+      },
+      {
+        "id": "9081f87e-9b98-4790-9fbd-35c0c1e27d9b",
+        "sortDir": "default",
+        "isVisible": true,
+        "width": "140px",
+        "type": "text",
+        "numberPrefix": "",
+        "numberSuffix": "",
+        "numberSeparator": "",
+        "content": "New Column",
+        "numberFormat": "number",
+        "currencyType": "USD",
+        "dateFormat": "mmddyyyy",
+        "dateFormatSeparator": "-",
+        "hour12": true,
+        "includeTime": false,
+        "shouldWrapOverflow": true,
+        "tags": [],
+        "calculationType": "none",
+        "aspectRatio": "unset",
+        "horizontalPadding": "unset",
+        "verticalPadding": "unset",
+        "frontmatterKey": null
+      },
+      {
+        "id": "ad53af56-ad5a-415c-9eed-ad8f54380b20",
+        "sortDir": "default",
+        "isVisible": true,
+        "width": "140px",
+        "type": "text",
+        "numberPrefix": "",
+        "numberSuffix": "",
+        "numberSeparator": "",
+        "content": "New Column",
+        "numberFormat": "number",
+        "currencyType": "USD",
+        "dateFormat": "mmddyyyy",
+        "dateFormatSeparator": "-",
+        "hour12": true,
+        "includeTime": false,
+        "shouldWrapOverflow": true,
+        "tags": [],
+        "calculationType": "none",
+        "aspectRatio": "unset",
+        "horizontalPadding": "unset",
+        "verticalPadding": "unset",
+        "frontmatterKey": null
+      }
+    ],
+    "rows": [
+      {
+        "id": "89a0bd7f-91b5-493d-a9ce-04e1ed5501ad",
+        "index": 0,
+        "sourceId": null,
+        "creationDateTime": "2023-12-09T02:14:24.870Z",
+        "lastEditedDateTime": "2023-12-09T02:14:24.870Z",
+        "cells": [
+          {
+            "id": "dbbff3f1-d211-45b6-a8e7-d9f293447e7d",
+            "columnId": "9081f87e-9b98-4790-9fbd-35c0c1e27d9b",
+            "content": "",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "908ae7c8-7bc1-4d74-8b9f-7fd63224432e",
+            "columnId": "ad53af56-ad5a-415c-9eed-ad8f54380b20",
+            "content": "",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "13c2457e-f0d1-470e-b028-decc28ccd726",
+            "columnId": "19e625a2-0144-4ca4-a735-d488ed993ab1",
+            "path": "",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "3e640e0b-8dfe-42a7-9881-7c9739f1c956",
+            "columnId": "fc960555-a1cc-4108-a606-97d06a2cc28f",
+            "hasValidFrontmatter": null
+          }
+        ]
+      }
+    ],
+    "filters": [
+      {
+        "id": "139f361d-25e4-413f-9618-f42c731e482e",
+        "columnId": "9081f87e-9b98-4790-9fbd-35c0c1e27d9b",
+        "operator": "or",
+        "isEnabled": true,
+        "type": "text",
+        "condition": "is",
+        "text": ""
+      }
+    ],
+    "sources": [
+      {
+        "id": "0aeb9518-2f5d-4726-a73a-37bc2f85ad6b",
+        "type": "folder",
+        "path": "C:/Users/Sarah/OneDrive/Desktop/Personal/Obsidian Vault/BASB/2 Areas",
+        "includeSubfolders": true
+      }
+    ],
+    "settings": {
+      "numFrozenColumns": 1,
+      "showCalculationRow": true
+    },
+    "externalRowOrder": []
+  },
+  "pluginVersion": "8.15.7"
+}

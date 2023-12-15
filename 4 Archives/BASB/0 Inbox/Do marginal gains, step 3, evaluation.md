@@ -1,0 +1,8 @@
+- I am currently on the stage where I am evaluating my current progress 
+	- Obstacles: I realize that I do not have the sufficient textbook materials in order to get the maximum value out of my learning strategies. Therefore, I would like to know more about the syllabus I enrolled in for me to progress even further. 
+	- Materials that might help:
+		- 1. [DBP textbook](https://lookerstudio.google.com/u/0/reporting/19d52769-d10b-40c7-a11b-720cf7186ca9/page/p_s19quphz4c)
+		- 2. [[Tips for SPM examination]]
+		- 3. [[华语科materials.docx]]
+		- 4. All my form 1-3 language materials (since I am especially weak in the field of languages)
+		- 5.CK Ong (CK ong HW materials) 

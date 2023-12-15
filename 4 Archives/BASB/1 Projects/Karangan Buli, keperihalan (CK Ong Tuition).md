@@ -1,0 +1,28 @@
+- Karangan Buli
+	- ![[Pasted image 20230901155713.png]]
+	- ![[Pasted image 20230901155214.png]]
+	- ![[Pasted image 20230901160006.png]]
+	- Air mata itu dibiarkan bertitisan membasahi pipi. 
+	- Aku merasakan sekolah ini bukan lagi tempat yang selamat untuk belajar
+	- Kisah aku bermula apabila mengikut ibu bapa berpindah. 
+	- -mengasuh - menjaga - kampung
+	- Ibu bapa aku sibuk mencari rezeki untuk menampung perbelanjaan keluarga. 
+	- Sekolah di kampung datuk dan nenek aman dan sejahtera. 
+	- Aku tidak pernah menghadapi masalah apabila bergaul dengan rakan-rakan di sekolah.
+	- Lamunan aku terganggu apabila terdengar bunyi ketukan pintu yang bertalu-talu. 
+	- -disambung-suara ibu-menyambung
+	- Dengan hati yang berat, aku bangkit dari katil lalu melangkah ke bilik air. 
+	- (Suddenly), aku terdengar nama aku dipanggil. 
+	- Aku memang kenal suara itu tanpa menoleh.
+	- Aku mempercepatkan langkah tanpa menghirau panggilan itu. 
+	- Beg sekolah aku diheret oleh Devnath, seorang ahli kumpulan buli. 
+	- Aku hampir terjatuh 
+	- Gripped my neck, lift me up and stare to me with wide eyes and berasa takut macam tikus. (mencekak leher - membutangkan matanya )
+	- Dengan penuh keterpaksaan  
+	- afternoon recess , friend told…melaporkan kejadian yang berlaku
+	- Principal menggalakan 
+	- (6th paragraph) memberi amaran. Jika sesiapa yang (breach school rules), 停学
+	- Sejak hari itu, hidup saya berubah. berasa syukur, tenang kerana tidak ada buli. 
+	- Aku sepatutnya tidak takut untuk membuat 
+- ![[Pasted image 20230901220753.png]]
+- ![[Pasted image 20230901220807.png]]

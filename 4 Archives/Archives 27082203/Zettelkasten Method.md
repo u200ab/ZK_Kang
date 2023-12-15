@@ -1,0 +1,22 @@
+- 1.Fleeting note: First thoughts, not solid, using this to think about an idea
+- 2.Literature note: more detailed thoughts, highest "mental model", should be written in one's own word , used in articles, books etc. 
+- 3.Permanent/Distilled note: most concrete form of note, can be referred anytime and understood clearly
+- Notes
+	- 1) Capturing
+		- Writing down everything interesting, intrigues you
+		- Making Atomic Notes
+			- Idea
+			- Questions : Paradoxical, Counter Intuitive
+			- Supplementary Tools : Anecdotes, Quote, Other studies to support/disprove this
+		- Tags
+			- To catagorize (Depends on what tags brings efficiency to outputs)
+			-  Make sure to make tags that could be searched up frequently
+	-  2) Connecting notes:
+		- Compass to stretch ideas in atomic notes:
+			- West: What is similar to (the idea), Relevent anecdotes/ Concepts
+			- East: What does it go against, Counter-intuitive Ideas
+			- North: Where does (the idea) come from, theme
+			- South: Where does it leads to, The "big picture", connecting ideas
+	- 3) Express the ideas:
+		- Twitter Posts, Essays...
+ 
