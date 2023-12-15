@@ -1,0 +1,304 @@
+{
+  "main": {
+    "id": "57714e0653bddb3b",
+    "type": "split",
+    "children": [
+      {
+        "id": "1b92810140878611",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8660a3630a59e04c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "BASB/2 Areas/Marginal Gains/Marginal Gains Tracking Template.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b4ceb03473e770e3",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "49ecfbf3cb116acf",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "fba51a8aab737028",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "98f94fa564025e89",
+    "type": "split",
+    "children": [
+      {
+        "id": "aaf80147d3395fdf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "74ba623afe963c82",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          },
+          {
+            "id": "1ac350ac3b02ae0a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "37f8aeddcf7de6a1",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#weekly-review",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ccaffc3b11c000e0",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 768.5
+  },
+  "right": {
+    "id": "def74882cf497a3d",
+    "type": "split",
+    "children": [
+      {
+        "id": "d151dd9fb75e2206",
+        "type": "tabs",
+        "dimension": 53.805774278215225,
+        "children": [
+          {
+            "id": "448631a341618207",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Untitled.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "4a8a4e1aa654648e",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "3c07d67dc3eeb620",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          },
+          {
+            "id": "35d5cbc50e439710",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      },
+      {
+        "id": "9565f044f239c322",
+        "type": "tabs",
+        "dimension": 46.194225721784775,
+        "children": [
+          {
+            "id": "45719903f1694e75",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Untitled.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": true,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "f0e6772d822bb1d7",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Untitled.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "e0a4a8e833d6da01",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "bd39e341678be74d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Untitled.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 268.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "markdown-importer:Open format converter": false,
+      "audio-recorder:Start/stop recording": false,
+      "workspaces:Manage workspace layouts": false,
+      "obsidian-excalidraw-plugin:New Excalidraw drawing": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-extract-pdf-highlights:PDF Highlights": false,
+      "publish:Publish changes...": false
+    }
+  },
+  "active": "fba51a8aab737028",
+  "lastOpenFiles": [
+    "Untitled.md",
+    "BASB/2 Areas/Marginal Gains/Marginal Gains Tracking Template.md",
+    "BASB/4 Archives/Archives 27082203/Attachments/BEDS-M-Checklist.pdf",
+    "BASB/1 Projects/CK Ong Karangan Membendung Berita Palsu.md",
+    "Kolbs Experimental Learning Cycle + Guidelines.md",
+    "BASB/2 Areas/Marginal Gains/Answer sheet for Marginal Gains.md",
+    "BASB/4 Archives/Archives 27082203/Reviews/Weekly Review/Marginal Gains, August (2nd).md",
+    "BASB/4 Archives/Archives 27082203/Templates/Weekly Review Template.md",
+    "BASB/2 Areas/Marginal Gains/Marginal Gains Tracking, 14112023.md",
+    "BASB/4 Archives/Archives 27082203/Reviews/Weekly Review/Marginal Gains, August (3rd).md",
+    "BASB/0 Inbox/Tips for SPM examination.md",
+    "BASB/0.3 read,watch later/Sleep Dependent Memory Consolidation.md",
+    "BASB/2 Areas/Kolb's Cycle/Kolbs Experimental Cycle Worksheet (SAMPLE,PDF).pdf",
+    "BASB/0 Inbox/French DELF Materials.md",
+    "BASB/2 Areas/Marginal Gains/Marginal-Gains-Tracking.pdf",
+    "BASB/2 Areas/Marginal Gains/How-to-write-SMART-Goals-v2.pdf",
+    "Recording 20231110193558.webm",
+    "202311101934.excalidraw.md",
+    "202311101934.excalidraw.png",
+    "202311101934.excalidraw.svg",
+    "BASB/4 Archives/Archives 27082203/Reviews/Weekly Review/2022-W23.md",
+    "BASB/4 Archives/Archives 27082203/People, Classes/John Doe.md",
+    "BASB/4 Archives/Archives 27082203/Templates/Daily Note Template.md",
+    "BASB/2 Areas/Kolb's Cycle/Kolb Experimental Learning Cycle + Guidelines.md",
+    "BASB/4 Archives/Archives 27082203/People, Classes/Jane Doe.md",
+    "Untitled.canvas",
+    "Untitled 10.canvas",
+    "Untitled 9.canvas",
+    "Untitled 8.canvas",
+    "Untitled 7.canvas",
+    "Untitled 6.canvas",
+    "Untitled 5.canvas",
+    "Untitled 4.canvas",
+    "Untitled 3.canvas",
+    "Untitled 2.canvas",
+    "BASB/4 Archives/Reviews/Daily Notes/2023-09-20.md",
+    "BASB/4 Archives/Reviews/Daily Notes/2023-09-24.md",
+    "BASB/4 Archives/Reviews/Daily Notes/2023-09-22.md",
+    "BASB/4 Archives/Reviews/Daily Notes/2023-09-18.md",
+    "BASB/4 Archives/Reviews/Daily Notes/2023-09-15.md",
+    "BASB/4 Archives/Reviews/Daily Notes/2023-09-14.md",
+    "BASB/4 Archives/Reviews/Daily Notes/2023-09-09.md",
+    "BASB/4 Archives/Reviews/Daily Notes/2023-09-08.md",
+    "BASB/2 Areas/Marginal Gains/Unconfirmed 211212.crdownload",
+    "BASB/0 Inbox/Review JUEC examination format/初中科学——考试纲要.pdf",
+    "BASB/0 Inbox/Review JUEC examination format/初中华文——考试纲要.pdf",
+    "BASB/0 Inbox/Review JUEC examination format/初中历史——考试纲要.pdf",
+    "Attachments/Pasted image 20230926202250.png",
+    "Attachments/Pasted image 20231001212211.png",
+    "Attachments/Pasted image 20231001213152.png",
+    "Attachments/Pasted image 20231002181821.png",
+    "Attachments/Pasted image 20231003181040.png",
+    "BASB/0 Inbox/~$华文现代文阅读（补习）.tmp",
+    "Attachments/Pasted image 20231001214138.png",
+    "Attachments/Pasted image 20230928112321.png",
+    "Attachments/Pasted image 20230912191322.png"
+  ]
+}
