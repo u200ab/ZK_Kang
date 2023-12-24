@@ -4,65 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "9b8852863097b8a4",
+        "id": "f91ac6833e7d7d07",
         "type": "tabs",
         "children": [
           {
-            "id": "772cbe2efed5da4f",
+            "id": "6999e7daecfb44b9",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "085e5bb17550fddf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "tasks-notes/30-day mindset plan (iCanStudy).md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "88912af90cefa397",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Documents/T4-T5 BT - KESUSASTERAAN CINA WENXUAN.pdf"
-              }
-            }
-          },
-          {
-            "id": "6ead787659b89b7e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "tasks-notes/30-day mindset plan (iCanStudy).md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9000e5f480195f67",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "tasks-notes/30-day mindset plan (iCanStudy).md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7c8cad8ace585926",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "tasks-notes/Review Chinese Homework.md",
+                "file": "Home note.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -173,8 +132,17 @@
               "type": "google-calendar-view-day",
               "state": {}
             }
+          },
+          {
+            "id": "343ee51144d6fe6c",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       },
       {
         "id": "9565f044f239c322",
@@ -187,7 +155,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Documents/T4-T5 BT - KESUSASTERAAN CINA WENXUAN.pdf",
+                "file": "Home note.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -204,7 +172,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Documents/T4-T5 BT - KESUSASTERAAN CINA WENXUAN.pdf",
+                "file": "Home note.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -227,7 +195,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Documents/T4-T5 BT - KESUSASTERAAN CINA WENXUAN.pdf"
+                "file": "Home note.md"
               }
             }
           }
@@ -236,7 +204,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 540.5
+    "width": 540.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -253,21 +222,32 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "67a596873c03aa5c",
+  "active": "085e5bb17550fddf",
   "lastOpenFiles": [
+    "Home note.md",
+    "Untitled.md",
+    "Attachments/Pasted image 20230904183617.png",
+    "Documents/T4-T5 BT - KESUSASTERAAN CINA QIYUAN .pdf",
+    "Documents/T4-T5 BT - KESUSASTERAAN CINA WENXUAN.pdf",
+    "Documents/T4-T5 BT - KESUSASTERAAN CINA MINGJIA XIAOSHUOXUAN.pdf",
+    "Attachments/Pasted image 20230901155214.png",
+    "tasks-notes/PARA notes tabling.md",
+    "Inbox/CK Siti 12142023.md",
+    "Dataview.md",
+    "Attachments/Pasted image 20231214203341.png",
+    "Inbox/30-day mindset plan (iCanStudy) Answer Sheet, 1st attempt.md",
     "Inbox/PreStudy for f4 Bio, Chem, Phy.md",
-    "Documents",
+    "tasks-notes/Review Chinese Homework.md",
     "tasks-notes/30-day mindset plan (iCanStudy).md",
+    "tasks-notes/Untitled.md",
+    "knowledge management",
+    "Documents/T4 BT BIO DLP - BIOLOGY.pdf",
+    "Inbox/Due-Date of work.md",
+    "Documents",
     "Documents/T4 BT KIM DLP - CHEMISTRY.pdf",
     "Attachments/Unconfirmed 594862.crdownload",
     "Documents/T4 BT FIZ DLP - PHYSICS.pdf",
     "Attachments/Unconfirmed 670148.crdownload",
-    "zk_kang",
-    "tasks-notes/Status of work.md",
-    "Obsidian Vault/tasks-notes/Textbook & Syllabus for f4,f5/T4-T5 BT - KESUSASTERAAN CINA WENXUAN.pdf",
-    "Obsidian Vault/tasks-notes/Textbook & Syllabus for f4,f5/T4-T5 BT - KESUSASTERAAN CINA QIYUAN .pdf",
-    "Obsidian Vault/tasks-notes/Textbook & Syllabus for f4,f5/T4-T5 BT - KESUSASTERAAN CINA MINGJIA XIAOSHUOXUAN.pdf",
-    "Obsidian Vault/tasks-notes/Textbook & Syllabus for f4,f5/DSKP KSSM Biology Form 4 and 5_Versi English.pdf",
     "Obsidian Vault/tasks-notes/Status of work.md",
     "Obsidian Vault/tasks-notes/Review Chinese Homework.md",
     "Obsidian Vault/tasks-notes/30-day mindset plan (iCanStudy).md",
@@ -281,9 +261,6 @@
     "Obsidian Vault/GitHub guide/publish/attachments/publish-dir-yml.png",
     "Obsidian Vault/GitHub guide/publish/attachments/github-secrets-vercel.png",
     "Obsidian Vault/GitHub guide/publish/attachments/fork-linked-blog-starter-md.png",
-    "Obsidian Vault/GitHub guide/publish/attachments/fn-website-demo.gif",
-    "Obsidian Vault/GitHub guide/publish/attachments/enable-actions-github.png",
-    "Obsidian Vault/GitHub guide/publish/attachments/disconnect-repo-vercel.png",
     "Obsidian Vault/GitHub guide/publish/works-out-of-the-box-with-markdown-files.md",
     "Obsidian Vault/GitHub guide/publish/update-publish-settings-github-actions.md",
     "Obsidian Vault/GitHub guide/publish/statically-generated.md",
@@ -293,13 +270,6 @@
     "Obsidian Vault/GitHub guide/publish/install-linked-blog-starter-locally.md",
     "Obsidian Vault/GitHub guide/publish/how-linked-blog-starter-works.md",
     "Obsidian Vault/GitHub guide/publish/home.md",
-    "Obsidian Vault/GitHub guide/publish/get-project-id-account-id-and-token-vercel.md",
-    "Obsidian Vault/GitHub guide/publish/deploy-a-custom-linked-blog-starter.md",
-    "Obsidian Vault/GitHub guide/publish/connect-obsidian-vault-with-github.md",
-    "Obsidian Vault/GitHub guide/publish/accepted-markdown-metadata.md",
-    "Obsidian Vault/GitHub guide/README.md",
-    "Obsidian Vault/4 Archives/Project (short term)/Karangan Syarahan, Kebaikan-kebaikan Membeli Barangan Buatan Malaysia.md",
-    "Obsidian Vault/4 Archives/Project (short term)/(Unfinished) 20230904 完成一篇为“多姿多彩 方能 共存共荣”的议论文, unfinished.md",
     "Untitled.canvas",
     "Untitled 10.canvas",
     "Untitled 9.canvas",

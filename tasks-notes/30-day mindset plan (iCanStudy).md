@@ -1,7 +1,7 @@
 ---
-Areas: Mindset Improvement
-status: important, not urgent
-Due Date: Daily
+Organization: Areas - Mindset Improvement
+status: incomplete
+date-due: Daily
 ---
 1. Choose a skill or task that you know you are not very good at. 
 2. Break down this task into smaller and smaller steps or components until you feel that the chance of error for each individual step is very low. If you can't break down the task in this way, choose a different task!

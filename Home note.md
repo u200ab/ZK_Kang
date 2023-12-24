@@ -1,6 +1,4 @@
 ```dataview
-TABLE
+TABLE 
 FROM "tasks-notes"
 ```
-
-
