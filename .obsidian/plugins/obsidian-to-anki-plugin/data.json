@@ -1,18 +1,18 @@
 {
   "settings": {
     "CUSTOM_REGEXPS": {
-      "Basic": "",
-      "Basic (and reversed card)": "",
-      "Basic (optional reversed card)": "",
-      "Basic (type in the answer)": "",
-      "Cloze": ""
+      "克漏字": "",
+      "基本型": "",
+      "基本型（可選用反向卡片）": "",
+      "基本型（含反向卡片）": "",
+      "基本型（輸入答案）": ""
     },
     "FILE_LINK_FIELDS": {
-      "Basic": "Front",
-      "Basic (and reversed card)": "Front",
-      "Basic (optional reversed card)": "Front",
-      "Basic (type in the answer)": "Front",
-      "Cloze": "Text"
+      "克漏字": "Close 1",
+      "基本型": "正面",
+      "基本型（可選用反向卡片）": "正面",
+      "基本型（含反向卡片）": "正面",
+      "基本型（輸入答案）": "正面"
     },
     "CONTEXT_FIELDS": {},
     "FOLDER_DECKS": {},
@@ -39,5 +39,7 @@
       "Add Obsidian Tags": false
     }
   },
+  "Added Media": [],
+  "File Hashes": {},
   "fields_dict": {}
 }

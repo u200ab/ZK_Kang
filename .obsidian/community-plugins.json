@@ -10,5 +10,7 @@
   "find-unlinked-files",
   "table-editor-obsidian",
   "obsidian-kanban",
-  "obsidian-git"
+  "obsidian-git",
+  "obsidian-to-anki-plugin",
+  "global-markdown-encrypt"
 ]
