@@ -86,11 +86,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5.11 Documents/books,articles,literate (inbox)/Answer Sheet 31012024 Chinese Tuition.md",
+                "file": "0.1 Inbox/Language work bank in Anki.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
+            }
+          },
+          {
+            "id": "8eeae8864c8aadaa",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
             }
           },
           {
@@ -107,7 +115,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -243,7 +251,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5.11 Documents/books,articles,literate (inbox)/Answer Sheet 31012024 Chinese Tuition.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -260,7 +267,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5.11 Documents/books,articles,literate (inbox)/Answer Sheet 31012024 Chinese Tuition.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -282,9 +288,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "5.11 Documents/books,articles,literate (inbox)/Answer Sheet 31012024 Chinese Tuition.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -313,15 +317,21 @@
       "obsidian-to-anki-plugin:Obsidian_to_Anki - Scan Vault": false
     }
   },
-  "active": "67a596873c03aa5c",
+  "active": "8eeae8864c8aadaa",
   "lastOpenFiles": [
-    "5.111 Attachments/yt1s.com - HYPER EFFICIENT STUDY WITH ME  Doctor Learning coach Flowmodoro White noise Fireplace sounds_480p.mp4",
-    "5.11 Documents/books,articles,literate (inbox)/Answer Sheet 31012024 Chinese Tuition.md",
+    "0.1 Inbox/Language work bank in Anki.md",
+    "0.1 Inbox/0 Inbox.md",
+    "0.1 Inbox/OH 02012024.md",
+    "Language Bank (aka anki)/Untitled.md",
+    "Language Bank (aka anki)",
+    "0.1 Inbox/Untitled 1.md",
+    "0.1 Inbox/CK Ong 30012024.md",
     "0.1 Inbox/31012024 Chinese Tuition.md",
+    "5.11 Documents/books,articles,literate (inbox)/Answer Sheet 31012024 Chinese Tuition.md",
+    "5.111 Attachments/yt1s.com - HYPER EFFICIENT STUDY WITH ME  Doctor Learning coach Flowmodoro White noise Fireplace sounds_480p.mp4",
     "5.11 Documents/Inbox Document FIle/Attempt 31012024 Chinese Tuition.md",
     "4 Archives/Unactive Documents/31-1-2024 8PM.pdf",
     "5.11 Documents/Inbox Document FIle",
-    "0.1 Inbox/CK Ong 30012024.md",
     "5.1 Records/Records (overview).md",
     "5.1 Records/chinese tuition answers + completed work.md",
     "4 Archives/Unactive Documents",
@@ -343,17 +353,11 @@
     "5.1 Records/Jawapan BM - SR1.pdf",
     "5.11 Documents/books,articles,literate (inbox)",
     "5.1 Records/Penanda Wacana.pdf",
-    "5.11 Documents/1 Projects Document file/PROJEK PENDIDIKAN MORAL SR1 2024.docx.pdf",
-    "5.11 Documents/records",
     "Documents/Untitled.md",
     "0 Home Note.md",
     "1 Projects/Bio Jamboard Project.md",
     "0.02 IMPORTANT view later/0.02 IMPORTANT view later.md",
     "0.02 IMPORTANT view later/READ LATER.md",
-    "0.02 IMPORTANT view later/Obsidian Beginner Guide + Beginner Resources.md",
-    "0.02 IMPORTANT view later/Notion-like template in Obsidian.md",
-    "0.02 IMPORTANT view later/Meditation Techniques.md",
-    "0.02 IMPORTANT view later/Learn Japanese.md",
     "5.111 Attachments/Pasted image 20240128210941.png",
     "5.111 Attachments/Pasted image 20240124213134.png",
     "5.111 Attachments/Pasted image 20240124212953.png",
