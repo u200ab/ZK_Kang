@@ -1,0 +1,16 @@
+- general form of a quadratic equation
+- factorization method
+- completing the square
+- quadratic formulae
+- graph sketching
+- number line
+- table
+- discriminant
+- parabola
+- vertex form
+- intercept form
+- minimum value/point
+- maximum value/point
+- vertex (turning point)
+- range of a quadratic function
+- axis of symmetry

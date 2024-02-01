@@ -14,15 +14,100 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Home Note.md",
+                "file": "0 Home Note.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "pinned": true
             }
+          },
+          {
+            "id": "26d897e6fb125743",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0.01 Routines (habit tracking)/0.01 Routines (habit tracking).md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "e2ac525745cdae9b",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0.01 Routines (habit tracking)/Distraction Cheat Sheet.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "286a0468fd7ef9e1",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "5.1 Records/Records (overview).md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "5812ed320d371fa1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0.1 Inbox/31012024 Chinese Tuition.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3ff0267d5820c90b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "5.11 Documents/books,articles,literate (inbox)/Answer Sheet 31012024 Chinese Tuition.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b4c043ac6ba007d0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "5.11 Documents/Inbox Document FIle/Attempt 31012024 Chinese Tuition.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -73,7 +158,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 468.5
+    "width": 487.5110321044922
   },
   "right": {
     "id": "def74882cf497a3d",
@@ -82,8 +167,16 @@
       {
         "id": "b42381e3cb35bcc3",
         "type": "tabs",
-        "dimension": 76.63461538461539,
+        "dimension": 80.76923076923077,
         "children": [
+          {
+            "id": "65fff718a541c955",
+            "type": "leaf",
+            "state": {
+              "type": "google-calendar-view-day",
+              "state": {}
+            }
+          },
           {
             "id": "730779ee1cd9f90d",
             "type": "leaf",
@@ -121,28 +214,28 @@
             }
           },
           {
-            "id": "65fff718a541c955",
-            "type": "leaf",
-            "state": {
-              "type": "google-calendar-view-day",
-              "state": {}
-            }
-          },
-          {
             "id": "343ee51144d6fe6c",
             "type": "leaf",
             "state": {
               "type": "advanced-tables-toolbar",
               "state": {}
             }
+          },
+          {
+            "id": "c89985fcee9d6984",
+            "type": "leaf",
+            "state": {
+              "type": "google-calendar-view-web",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 1
       },
       {
         "id": "9565f044f239c322",
         "type": "tabs",
-        "dimension": 23.36538461538462,
+        "dimension": 19.230769230769234,
         "children": [
           {
             "id": "45719903f1694e75",
@@ -150,6 +243,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "5.11 Documents/books,articles,literate (inbox)/Answer Sheet 31012024 Chinese Tuition.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -166,6 +260,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "5.11 Documents/books,articles,literate (inbox)/Answer Sheet 31012024 Chinese Tuition.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -188,7 +283,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Pasted image 20240108155335.png"
+                "file": "5.11 Documents/books,articles,literate (inbox)/Answer Sheet 31012024 Chinese Tuition.md"
               }
             }
           }
@@ -197,7 +292,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 540.5,
+    "width": 619.5,
     "collapsed": true
   },
   "left-ribbon": {
@@ -213,56 +308,59 @@
       "templater-obsidian:Templater": false,
       "obsidian-extract-pdf-highlights:PDF Highlights": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "global-markdown-encrypt:new encrypted note": false
+      "global-markdown-encrypt:new encrypted note": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "obsidian-to-anki-plugin:Obsidian_to_Anki - Scan Vault": false
     }
   },
   "active": "67a596873c03aa5c",
   "lastOpenFiles": [
-    "Home Note.md",
-    "Book List SR1 2024.aes256",
-    "Records/Records (overview).md",
-    "Pasted image 20240108155335.png",
-    "20240108 022017.aes256",
-    "0 Inbox/0 Inbox.md",
-    "0.01 Routines (habit tracking)/0.01 Routines (habit tracking).md",
-    "1 Projects/1 Projects.md",
-    "0.02 IMPORTANT view later/0.02 IMPORTANT view later.md",
-    "0.01 Routines (habit tracking)/30-day mindset plan (iCanStudy).md",
+    "5.111 Attachments/yt1s.com - HYPER EFFICIENT STUDY WITH ME  Doctor Learning coach Flowmodoro White noise Fireplace sounds_480p.mp4",
+    "5.11 Documents/books,articles,literate (inbox)/Answer Sheet 31012024 Chinese Tuition.md",
+    "0.1 Inbox/31012024 Chinese Tuition.md",
+    "5.11 Documents/Inbox Document FIle/Attempt 31012024 Chinese Tuition.md",
+    "4 Archives/Unactive Documents/31-1-2024 8PM.pdf",
+    "5.11 Documents/Inbox Document FIle",
+    "0.1 Inbox/CK Ong 30012024.md",
+    "5.1 Records/Records (overview).md",
+    "5.1 Records/chinese tuition answers + completed work.md",
+    "4 Archives/Unactive Documents",
+    "5.11 Documents/31-1-2024 8PM.pdf.crdownload",
+    "5.1 Records/Answer Sheet 30012024.md",
+    "5.111 Attachments/Pasted image 20240130190502.png",
+    "5.111 Attachments/Pasted image 20240130190149.png",
+    "5.1 Records/CK Ong Homework.md",
+    "5.111 Attachments/Pasted image 20240130184236.png",
+    "5.1 Records/CK Ong 23012024.md",
+    "5.1 Records/Answer Sheet 23012024 CK Ong.md",
+    "1 Projects/Karangan (CK Ong).md",
+    "5.1 Records/Karangan Pendapat - Industri Pelancongan.md",
     "Templates/Basic habit tracking template.md",
     "Templates/Basic task template.md",
-    "0.01 Routines (habit tracking)/Urgency Trapping.md",
-    "0.01 Routines (habit tracking)/Distraction Cheat Sheet.md",
-    "Records/school work.md",
-    "0.01 Routines (habit tracking)/time,task management.md",
-    "0.02 IMPORTANT view later/Reference for learning BASB.md",
-    "1 Projects/PreStudy for Chinese literature.md",
-    "life management/0.01 Routines (habit tracking)/30-day mindset plan (iCanStudy) Answer Sheet, 1st attempt 1.md",
-    "1 Projects",
-    "0.02 IMPORTANT view later",
-    "0.01 Routines (habit tracking)",
-    "0 Inbox",
-    "life management",
-    "Templates/Basic habit description template.md",
-    "Documents/T4 BT BIO DLP - BIOLOGY.pdf",
-    "4 Archives.md",
-    "Templates",
-    "0.01 Routines (habit tracking)/0.1 overview.md",
-    "0.02 IMPORTANT view later/Meditation Techniques.md",
-    "Records/iCanStudy System Overview.md",
-    "0.01 Routines (habit tracking)/mindset",
-    "1 Projects/Review CK Siti 12142023.md",
-    "1 Projects/PreStudy for f4 Bio, Chem, Phy.md",
-    "Documents/Karangan Cikgu Siti - usaha-usaha menggalakkan amalan kitar semula.jpg",
-    "1 Projects/Review Chinese Homework.md",
+    "5.1 Records/Perfect Answer Sheet.md",
+    "5.1 Records/Pendapat tentang industri pelancongan Malaysia.md",
+    "5.11 Documents/coccuriculum standard (KKSM - f4,f5)/DSKP Additional Mathematics Form 4 and 5 DLP dated 29092020.pdf",
+    "5.1 Records/Jawapan BM - SR1.pdf",
+    "5.11 Documents/books,articles,literate (inbox)",
+    "5.1 Records/Penanda Wacana.pdf",
+    "5.11 Documents/1 Projects Document file/PROJEK PENDIDIKAN MORAL SR1 2024.docx.pdf",
+    "5.11 Documents/records",
+    "Documents/Untitled.md",
+    "0 Home Note.md",
+    "1 Projects/Bio Jamboard Project.md",
+    "0.02 IMPORTANT view later/0.02 IMPORTANT view later.md",
+    "0.02 IMPORTANT view later/READ LATER.md",
     "0.02 IMPORTANT view later/Obsidian Beginner Guide + Beginner Resources.md",
-    "Attachments/Pasted image 20230904183617.png",
-    "Attachments/Pasted image 20230901155214.png",
-    "Attachments/Pasted image 20231214203341.png",
-    "Obsidian Vault/GitHub guide/publish/attachments/how-linked-blog-starter-works.png",
-    "Obsidian Vault/GitHub guide/publish/attachments/vercel-project-id.png",
-    "Obsidian Vault/GitHub guide/publish/attachments/vercel-create-token.png",
-    "Obsidian Vault/GitHub guide/publish/attachments/vercel-account-id.png",
-    "Obsidian Vault/GitHub guide/publish/attachments/publish-dir-yml.png",
+    "0.02 IMPORTANT view later/Notion-like template in Obsidian.md",
+    "0.02 IMPORTANT view later/Meditation Techniques.md",
+    "0.02 IMPORTANT view later/Learn Japanese.md",
+    "5.111 Attachments/Pasted image 20240128210941.png",
+    "5.111 Attachments/Pasted image 20240124213134.png",
+    "5.111 Attachments/Pasted image 20240124212953.png",
+    "5.111 Attachments/Pasted image 20240124212930.png",
+    "5.111 Attachments/Pasted image 20240124212818.png",
+    "5.111 Attachments/Pasted image 20240124205150.png",
+    "5.111 Attachments/Pasted image 20240124204632.png",
     "Untitled.canvas",
     "Untitled 10.canvas",
     "Untitled 9.canvas",

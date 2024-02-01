@@ -2,7 +2,7 @@
 Routine: Time and task management
 Importance: "5"
 Time: Every Work (School) Week
-Status: Not yet started
+Status: Started
 ---
 Instructions: 
 1. Identify any tasks that take up a significant amount of your time because they are urgent but not necessarily important. Remember, a task is important if the consequence of failure is **unacceptable** and **unmanageable**.
@@ -14,9 +14,7 @@ Tasks that are urgent but not necessarily important:
 2. School presentations / projects
 Tasks that aren't urgent but important:
 1. Being attentive in class
-2. Maintaining a Healthy work-life balance
-3. Financial Management and Budgeting
-4. Health and Wellness Practices
-5. Learning how to learn
-6. Personal Development + Skills Building
-7. Communicate properly using languages
+2. Financial Management and Budgeting
+3. Health and Wellness Practices
+4. Learning how to learn
+5. Communicate properly using languages

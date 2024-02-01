@@ -11,6 +11,7 @@
   "table-editor-obsidian",
   "obsidian-kanban",
   "obsidian-git",
-  "obsidian-to-anki-plugin",
-  "global-markdown-encrypt"
+  "global-markdown-encrypt",
+  "obsidian-excalidraw-plugin",
+  "obsidian-to-anki-plugin"
 ]

@@ -2,7 +2,7 @@
 Routine: Environment Management
 Importance: "5"
 Time: Every Practice Block
-Status: Not yet started
+Status: Started
 ---
 Optimise your environment and refine it with a Distraction sheet
 
@@ -23,3 +23,6 @@ Repeat this process for at least **three sessions**. By this point, you should 
 To take this to another level, attempt to use MVGs next time you feel like procrastinating and write down any barriers you encounter on your distractions sheet. For example, maybe you didn't have all the right tabs open, which caused you to feel like procrastinating.
 
 This way, you can continue refining your environment with positive influences to make your path to focus as frictionless as possible while removing the negative distractors!
+
+# LOG
+- [[Distraction Cheat Sheat]]
