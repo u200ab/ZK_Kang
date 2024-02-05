@@ -73,20 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0.1 Inbox/31012024 Chinese Tuition.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3ff0267d5820c90b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0.1 Inbox/Language work bank in Anki.md",
+                "file": "5.1 Records/31012024 Chinese Tuition.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -97,17 +84,9 @@
             "id": "8eeae8864c8aadaa",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "b4c043ac6ba007d0",
-            "type": "leaf",
-            "state": {
               "type": "markdown",
               "state": {
-                "file": "5.11 Documents/Inbox Document FIle/Attempt 31012024 Chinese Tuition.md",
+                "file": "0.1 Inbox/School HW.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -115,7 +94,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -251,6 +230,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "5.1 Records/31012024 Chinese Tuition.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -267,6 +247,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "5.1 Records/31012024 Chinese Tuition.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -288,7 +269,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "5.1 Records/31012024 Chinese Tuition.md"
+              }
             }
           }
         ],
@@ -317,29 +300,30 @@
       "obsidian-to-anki-plugin:Obsidian_to_Anki - Scan Vault": false
     }
   },
-  "active": "8eeae8864c8aadaa",
+  "active": "5812ed320d371fa1",
   "lastOpenFiles": [
     "0.1 Inbox/Language work bank in Anki.md",
-    "0.1 Inbox/0 Inbox.md",
+    "0.1 Inbox/School HW.md",
+    "5.1 Records/chinese tuition answers + completed work.md",
+    "5.1 Records/Records (overview).md",
+    "5.1 Records/CK Ong 30012024.md",
+    "5.1 Records/CK Ong Homework.md",
+    "5.11 Documents/Inbox Document FIle/Attempt 31012024 Chinese Tuition.md",
+    "5.1 Records/31012024 Chinese Tuition.md",
     "0.1 Inbox/OH 02012024.md",
+    "0.1 Inbox/0 Inbox.md",
     "Language Bank (aka anki)/Untitled.md",
     "Language Bank (aka anki)",
     "0.1 Inbox/Untitled 1.md",
-    "0.1 Inbox/CK Ong 30012024.md",
-    "0.1 Inbox/31012024 Chinese Tuition.md",
     "5.11 Documents/books,articles,literate (inbox)/Answer Sheet 31012024 Chinese Tuition.md",
     "5.111 Attachments/yt1s.com - HYPER EFFICIENT STUDY WITH ME  Doctor Learning coach Flowmodoro White noise Fireplace sounds_480p.mp4",
-    "5.11 Documents/Inbox Document FIle/Attempt 31012024 Chinese Tuition.md",
     "4 Archives/Unactive Documents/31-1-2024 8PM.pdf",
     "5.11 Documents/Inbox Document FIle",
-    "5.1 Records/Records (overview).md",
-    "5.1 Records/chinese tuition answers + completed work.md",
     "4 Archives/Unactive Documents",
     "5.11 Documents/31-1-2024 8PM.pdf.crdownload",
     "5.1 Records/Answer Sheet 30012024.md",
     "5.111 Attachments/Pasted image 20240130190502.png",
     "5.111 Attachments/Pasted image 20240130190149.png",
-    "5.1 Records/CK Ong Homework.md",
     "5.111 Attachments/Pasted image 20240130184236.png",
     "5.1 Records/CK Ong 23012024.md",
     "5.1 Records/Answer Sheet 23012024 CK Ong.md",
@@ -357,7 +341,6 @@
     "0 Home Note.md",
     "1 Projects/Bio Jamboard Project.md",
     "0.02 IMPORTANT view later/0.02 IMPORTANT view later.md",
-    "0.02 IMPORTANT view later/READ LATER.md",
     "5.111 Attachments/Pasted image 20240128210941.png",
     "5.111 Attachments/Pasted image 20240124213134.png",
     "5.111 Attachments/Pasted image 20240124212953.png",
