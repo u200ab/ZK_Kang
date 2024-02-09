@@ -1,7 +1,12 @@
 ---
-Organization: 
-Inbox: Malay tuition session to increase procedural skills fluency in Malay
+Projects: Learning Material -> Flashcards
+Importance: (1~5)
+Date Due: "10022024"
+Status: Forgotten
 ---
+# TO DO
+- Create flashcards for interesting/complex/unintuitive but informative vocabulary and understand the grammar concept via mindmapping. 
+
 Document discussed: [[Conquer! Bahasa Melayu Tingkatan 3.pdf]]
 Main Points:
 1. Key terms (of a karangan pendek)

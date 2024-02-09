@@ -1,0 +1,2 @@
+[George Trombley - Japanese from Zero all 5 books-Bastards (2020).pdf](https://1drv.ms/b/s!AhgNShlu_ad-gbMsOrFDdJkbZZvoqA?e=X5nvhI)
+[japanese dictionaries recommendations](https://www.instapaper.com/text?u=https%3A%2F%2Fwww.tofugu.com%2Fjapanese%2Fbest-japanese-dictionary%2F)
