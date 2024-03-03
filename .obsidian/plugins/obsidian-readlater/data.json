@@ -1,0 +1,19 @@
+{
+  "addRibbonIcon": true,
+  "showAtStartup": true,
+  "urlAttribute": "url",
+  "readLaterFolder": "0.1 Inbox",
+  "pocket": {
+    "markAsRead": false,
+    "frequency": "Manual|"
+  },
+  "instapaper": {
+    "markAsRead": false,
+    "frequency": "Manual|"
+  },
+  "domainsForHeadless": [
+    "medium.com",
+    "msn.com"
+  ],
+  "synchPeriodMS": 900000
+}
