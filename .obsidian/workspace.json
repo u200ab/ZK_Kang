@@ -23,43 +23,13 @@
             }
           },
           {
-            "id": "26d897e6fb125743",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0.01 Routines (habit tracking)/0.01 Routines (habit tracking).md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "pinned": true
-            }
-          },
-          {
-            "id": "e2ac525745cdae9b",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0.01 Routines (habit tracking)/Distraction Cheat Sheet.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "pinned": true
-            }
-          },
-          {
             "id": "286a0468fd7ef9e1",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4 Archives/5.1 Records/Records (overview).md",
+                "file": "5 unprocessed materials/5.1 Records/Records (overview).md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -68,27 +38,45 @@
             }
           },
           {
-            "id": "437042dd827b4cc9",
+            "id": "4911876eb173a267",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 Projects/school tasks.md",
+                "file": "2 Areas/time management.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
-              },
-              "pinned": true
+              }
             }
           },
           {
-            "id": "935cb2be0619d06d",
+            "id": "d7827bfa84e7ba48",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "5 unprocessed materials/notes/Jawapan BM - SR1.pdf"
+              }
+            }
+          },
+          {
+            "id": "b889577fd8f245b7",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "5 unprocessed materials/notes/Penanda Wacana.pdf"
+              }
+            }
+          },
+          {
+            "id": "544269b0a14e856c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 Projects/school tasks.md",
+                "file": "2 Areas/language learning.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -96,7 +84,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -232,7 +220,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1 Projects/school tasks.md",
+                "file": "5 unprocessed materials/notes/Penanda Wacana.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -249,7 +237,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1 Projects/school tasks.md",
+                "file": "5 unprocessed materials/notes/Penanda Wacana.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -272,7 +260,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1 Projects/school tasks.md"
+                "file": "5 unprocessed materials/notes/Penanda Wacana.pdf"
               }
             }
           }
@@ -286,7 +274,6 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-extract-pdf-highlights:PDF Highlights": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "templates:Insert template": false,
@@ -296,57 +283,58 @@
       "workspaces:Manage workspace layouts": false,
       "publish:Publish changes...": false,
       "templater-obsidian:Templater": false,
+      "obsidian-extract-pdf-highlights:PDF Highlights": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "67a596873c03aa5c",
+  "active": "b889577fd8f245b7",
   "lastOpenFiles": [
-    "0.1 Inbox/2022 Rumusan 2.pdf",
-    "1 Projects/Projeck Pendidikkan Seni Moral.md",
-    "1 Projects/Karangan (CK Ong).md",
-    "1 Projects/Bio Project - Cell Division Portfolio.md",
-    "1 Projects/Bio Jamboard Project.md",
-    "1 Projects/1 Projects.md",
-    "1 Projects/sub-projects/2024高一理项目式评量1.pdf",
-    "1 Projects/school tasks.md",
-    "1 Projects/sub-projects",
-    "1 Projects/Review CK Siti 12142023.md",
-    "1 Projects/Review Chinese Homework.md",
-    "0.01 Routines (habit tracking)/0.01 Routines (habit tracking).md",
-    "0 Home Note.md",
-    "0.1 Inbox/A thought on ways to create essays or stories..md",
-    "0.1 Inbox/Deep rest when I'm feeling tired during the day..md",
-    "5.11 Documents/textbooks/T4-T5 BT - KESUSASTERAAN CINA MINGJIA XIAOSHUOXUAN.pdf",
-    "0.1 Inbox/japan books.md",
-    "0.1 Inbox/Meditation Techniques.md",
-    "0.1 Inbox/Learn Japanese.md",
-    "0.1 Inbox/Language work bank in Anki.md",
-    "0.1 Inbox/deep rest.md",
-    "0.1 Inbox/ChatGPT.md",
-    "0.1 Inbox/0 Inbox.md",
-    "3 Resources/interleaving ideas.md",
-    "0.1 Inbox/School HW.md",
-    "3 Resources/files/135. Improve Your Speaking Alone PDF.pdf",
-    "3 Resources/files/135. Improve Your Speaking Alone PDF.pdf.crdownload",
-    "3 Resources/files",
-    "0.1 Inbox/obsidian.md",
-    "3 Resources/BASB.md",
-    "0.1 Inbox/Instapaper.md",
-    "0.1 Inbox/Jisho.org Japanese Dictionary.md",
-    "2 Areas/sub-files",
-    "2 Areas",
+    "5 unprocessed materials/notes/Jawapan BM - SR1.pdf",
+    "5 unprocessed materials/notes",
+    "2 Areas/time management.md",
+    "2 Areas/sub-files/maintenance (time management).md",
+    "2 Areas/language learning.md",
+    "2 Areas/sub-files/activities to maintain.md",
+    "2 Areas/sub-files/japanese stuff (intro+dictionaries).md",
+    "2 Areas/sub-files/general time management (iCS).md",
+    "3 Resources/Google docs graphics.md",
+    "0.1 Inbox/Google Docs - Replying to a comment.mp4",
     "3 Resources",
-    "0.1 Inbox/George Trombley - Japanese from Zero all 5 books-Bastards (2020).pdf",
-    "4 Archives/5.111 Attachments/Pasted image 20240130190502.png",
-    "4 Archives/5.111 Attachments/Pasted image 20240130190149.png",
-    "4 Archives/5.111 Attachments/Pasted image 20240130184236.png",
-    "4 Archives/5.111 Attachments/Pasted image 20240128210941.png",
-    "4 Archives/5.111 Attachments/Pasted image 20240124213134.png",
-    "4 Archives/5.111 Attachments/Pasted image 20240124212953.png",
-    "4 Archives/5.111 Attachments/Pasted image 20240124212930.png",
-    "4 Archives/5.111 Attachments/Pasted image 20240124212818.png",
-    "4 Archives/5.111 Attachments/Pasted image 20240124205150.png",
-    "4 Archives/5.111 Attachments/Pasted image 20240124204632.png",
+    "0.1 Inbox/Deep rest when I'm feeling tired during the day..md",
+    "1 Projects/1 Projects.md",
+    "5 unprocessed materials/textbooks/T4-T5 BT - KESUSASTERAAN CINA MINGJIA XIAOSHUOXUAN.pdf",
+    "2 Areas/Untitled",
+    "0.5 Areas mantainance (important projects)",
+    "0.01 Routines (habit tracking)/Distraction Cheat Sheat (log).md",
+    "1 Projects/Areas maintainence",
+    "1 Projects/Untitled.md",
+    "0.01 Routines (habit tracking)/Distraction Cheat Sheet.md",
+    "0.01 Routines (habit tracking)/30-day mindset plan (iCanStudy).md",
+    "0.01 Routines (habit tracking)/0.01 Routines (habit tracking).md",
+    "0.1 Inbox/Meditation Techniques.md",
+    "0.1 Inbox/japan books.md",
+    "0.1 Inbox/0 Inbox.md",
+    "0.1 Inbox/A thought on ways to create essays or stories..md",
+    "3 Resources/BASB.md",
+    "3 Resources/interleaving ideas.md",
+    "5 unprocessed materials/5.1 Records/Records (overview).md",
+    "1 Projects/Bio Jamboard Project.md",
+    "1 Projects/Projek pendidkan seni moral.md",
+    "Archives 04032024",
+    "1 Projects/Bio Project - Cell Division Portfolio.md",
+    "1 Projects/Projeck Pendidikkan Seni Moral.md",
+    "5 unprocessed materials/textbooks/T5 BT BIO DLP - BIOLOGY.pdf",
+    "5 unprocessed materials/textbooks/T4-T5 BT - KESUSASTERAAN CINA WENXUAN.pdf",
+    "5 unprocessed materials/5.111 Attachments/Pasted image 20240130190502.png",
+    "5 unprocessed materials/5.111 Attachments/Pasted image 20240130190149.png",
+    "5 unprocessed materials/5.111 Attachments/Pasted image 20240130184236.png",
+    "5 unprocessed materials/5.111 Attachments/Pasted image 20240128210941.png",
+    "5 unprocessed materials/5.111 Attachments/Pasted image 20240124213134.png",
+    "5 unprocessed materials/5.111 Attachments/Pasted image 20240124212953.png",
+    "5 unprocessed materials/5.111 Attachments/Pasted image 20240124212930.png",
+    "5 unprocessed materials/5.111 Attachments/Pasted image 20240124212818.png",
+    "5 unprocessed materials/5.111 Attachments/Pasted image 20240124205150.png",
+    "5 unprocessed materials/5.111 Attachments/Pasted image 20240124204632.png",
     "Untitled.canvas",
     "Untitled 10.canvas",
     "Untitled 9.canvas",

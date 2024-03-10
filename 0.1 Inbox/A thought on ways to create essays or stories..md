@@ -1,1 +1,0 @@
-- Snowflake method ([article file here](https://www.masterclass.com/articles/how-to-use-the-snowflake-method-to-outline-your-novel))
