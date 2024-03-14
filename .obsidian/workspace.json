@@ -29,7 +29,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5 unprocessed materials/5.1 Records/Records (overview).md",
+                "file": "5.1 Records/Records (overview).md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -56,7 +56,7 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "5 unprocessed materials/notes/Jawapan BM - SR1.pdf"
+                "file": "3 Resources/sub-files/Jawapan BM - SR1 1.pdf"
               }
             }
           },
@@ -66,7 +66,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3 Resources/useful videos.md",
+                "file": "5.1 Records/CK Ong Homework.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -74,12 +74,53 @@
             }
           },
           {
-            "id": "544269b0a14e856c",
+            "id": "6626d2e307c9e6e3",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "5.1 Records/Records (overview).md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "3671bc175a00f7c7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2 Areas/language learning.md",
+                "file": "0.1 Inbox/School daily homework.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c7741b3ed45d792c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3 Resources/BM in general.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a0f14c3b08f0b526",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "5.1 Records/chinese tuition answers + completed work.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -87,7 +128,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -150,22 +191,6 @@
         "dimension": 80.76923076923077,
         "children": [
           {
-            "id": "65fff718a541c955",
-            "type": "leaf",
-            "state": {
-              "type": "google-calendar-view-day",
-              "state": {}
-            }
-          },
-          {
-            "id": "730779ee1cd9f90d",
-            "type": "leaf",
-            "state": {
-              "type": "google-calendar-view-week",
-              "state": {}
-            }
-          },
-          {
             "id": "ff33bd6c75bdb2c2",
             "type": "leaf",
             "state": {
@@ -202,15 +227,15 @@
             }
           },
           {
-            "id": "c89985fcee9d6984",
+            "id": "b48ada7a93edfa9e",
             "type": "leaf",
             "state": {
-              "type": "google-calendar-view-web",
+              "type": "google-calendar-view-schedule",
               "state": {}
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       },
       {
         "id": "9565f044f239c322",
@@ -223,7 +248,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3 Resources/useful videos.md",
+                "file": "3 Resources/BM in general.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -240,7 +265,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3 Resources/useful videos.md",
+                "file": "3 Resources/BM in general.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -263,7 +288,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3 Resources/useful videos.md"
+                "file": "3 Resources/BM in general.md"
               }
             }
           }
@@ -287,57 +312,59 @@
       "publish:Publish changes...": false,
       "templater-obsidian:Templater": false,
       "obsidian-extract-pdf-highlights:PDF Highlights": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "daily-notes:Open today's daily note": false
     }
   },
-  "active": "b889577fd8f245b7",
+  "active": "67a596873c03aa5c",
   "lastOpenFiles": [
-    "3 Resources/sub-files",
-    "3 Resources/Untitled.md",
+    "3 Resources/sub-files/Conquer! Bahasa Melayu Tingkatan 3.pdf",
+    "3 Resources/BM in general.md",
+    "3 Resources/school files.md",
     "3 Resources/useful videos.md",
-    "0.1 Inbox/Deep rest when I'm feeling tired during the day..md",
-    "4 Archives/Completed projects/Bio Jamboard Project.md",
-    "5 unprocessed materials/notes/Penanda Wacana.pdf",
-    "2 Areas/language learning.md",
-    "5 unprocessed materials/notes/Jawapan BM - SR1.pdf",
-    "5 unprocessed materials/notes",
+    "5.1 Records/Records (overview).md",
+    "Untitled",
+    "5 unprocessed materials/coccuriculum standard (KKSM - f4,f5)/DSKP Additional Mathematics Form 4 and 5 DLP dated 29092020.pdf",
+    "0.1 Inbox/School daily homework.md",
     "2 Areas/time management.md",
-    "2 Areas/sub-files/maintenance (time management).md",
-    "2 Areas/sub-files/activities to maintain.md",
-    "2 Areas/sub-files/japanese stuff (intro+dictionaries).md",
-    "2 Areas/sub-files/general time management (iCS).md",
-    "3 Resources/sub-files/Google Docs - Replying to a comment.mp4",
-    "3 Resources",
+    "1 Projects/Bio Project - Cell Division Portfolio.md",
+    "1 Projects/Projek pendidkan seni moral.md",
     "1 Projects/1 Projects.md",
-    "5 unprocessed materials/textbooks/T4-T5 BT - KESUSASTERAAN CINA MINGJIA XIAOSHUOXUAN.pdf",
-    "2 Areas/Untitled",
-    "0.5 Areas mantainance (important projects)",
-    "0.01 Routines (habit tracking)/Distraction Cheat Sheat (log).md",
-    "1 Projects/Areas maintainence",
-    "1 Projects/Untitled.md",
-    "0.01 Routines (habit tracking)/Distraction Cheat Sheet.md",
-    "0.01 Routines (habit tracking)/30-day mindset plan (iCanStudy).md",
-    "0.01 Routines (habit tracking)/0.01 Routines (habit tracking).md",
+    "0.1 Inbox/Deep rest when I'm feeling tired during the day..md",
     "0.1 Inbox/Meditation Techniques.md",
     "0.1 Inbox/japan books.md",
     "0.1 Inbox/0 Inbox.md",
-    "0.1 Inbox/A thought on ways to create essays or stories..md",
-    "3 Resources/BASB.md",
-    "3 Resources/interleaving ideas.md",
-    "5 unprocessed materials/5.1 Records/Records (overview).md",
-    "1 Projects/Projek pendidkan seni moral.md",
-    "Archives 04032024",
-    "1 Projects/Bio Project - Cell Division Portfolio.md",
-    "5 unprocessed materials/5.111 Attachments/Pasted image 20240130190502.png",
-    "5 unprocessed materials/5.111 Attachments/Pasted image 20240130190149.png",
-    "5 unprocessed materials/5.111 Attachments/Pasted image 20240130184236.png",
-    "5 unprocessed materials/5.111 Attachments/Pasted image 20240128210941.png",
-    "5 unprocessed materials/5.111 Attachments/Pasted image 20240124213134.png",
-    "5 unprocessed materials/5.111 Attachments/Pasted image 20240124212953.png",
-    "5 unprocessed materials/5.111 Attachments/Pasted image 20240124212930.png",
-    "5 unprocessed materials/5.111 Attachments/Pasted image 20240124212818.png",
-    "5 unprocessed materials/5.111 Attachments/Pasted image 20240124205150.png",
-    "5 unprocessed materials/5.111 Attachments/Pasted image 20240124204632.png",
+    "5.1 Records/CK Ong Homework.md",
+    "5.1 Records/CK Ong 12032024.md",
+    "5.1 Records/CK Ong 09012024.md",
+    "5.1 Records/chinese tuition answers + completed work.md",
+    "5.1 Records/CK Ong 09012024 (Excalidraw).md",
+    "5.1 Records/school work.md",
+    "5.111 Attachments/Pasted image 20240312193331.png",
+    "5.111 Attachments/Pasted image 20240312192222.png",
+    "5.111 Attachments/Pasted image 20240312191214.png",
+    "5.1 Records/CK Ong 23012024.md",
+    "5.1 Records/Answer Sheet 23012024 CK Ong.md",
+    "5.1 Records/CK Ong 30012024.md",
+    "5.111 Attachments/Pasted image 20240312190029.png",
+    "5.111 Attachments/Pasted image 20240312185319.png",
+    "5.111 Attachments/Pasted image 20240312184806.png",
+    "5.111 Attachments/Pasted image 20240312184730.png",
+    "5.111 Attachments/Pasted image 20240312183202.png",
+    "5.111 Attachments/Pasted image 20240312182956.png",
+    "5.111 Attachments/Pasted image 20240312182404.png",
+    "2 Areas/language learning.md",
+    "3 Resources/sub-files",
+    "4 Archives/Completed projects/Bio Jamboard Project.md",
+    "3 Resources/sub-files/Penanda Wacana.pdf",
+    "3 Resources/sub-files/Jawapan BM - SR1 1.pdf",
+    "5 unprocessed materials/notes",
+    "2 Areas/sub-files/maintenance (time management).md",
+    "3 Resources/sub-files/Google Docs - Replying to a comment.mp4",
+    "3 Resources",
+    "5 unprocessed materials/textbooks/T4-T5 BT - KESUSASTERAAN CINA MINGJIA XIAOSHUOXUAN.pdf",
+    "2 Areas/Untitled",
     "Untitled.canvas",
     "Untitled 10.canvas",
     "Untitled 9.canvas",

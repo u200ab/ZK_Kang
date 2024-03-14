@@ -2,11 +2,10 @@
   "tag-wrangler",
   "templater-obsidian",
   "obsidian-annotator",
-  "google-calendar",
-  "note-refactor-obsidian",
   "dataview",
   "obsidian-extract-pdf-highlights",
   "table-editor-obsidian",
-  "obsidian-readlater",
-  "obsidian-git"
+  "obsidian-git",
+  "obsidian-excalidraw-plugin",
+  "google-calendar"
 ]

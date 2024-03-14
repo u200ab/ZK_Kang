@@ -1,3 +1,0 @@
-Pada era pascakemerdekaan ini, industri pelancongan domestik menyumbang kepada pertumbuhan ekonomi negara. Sektor ini membuka peluang untuk banyak peniaga yang memasarkan produk kepada kehadiran lebih 20 juta orang pelancong sejak tahun 2019. Oleh hal yang demikian, sektor ini mampu menurunkan kadar pengangguran rakyat dalam negara Malaysia. Maka, sektor pelancongan perlu terus disemarakkan untuk kepentingan semua pihak. 
-
-Penggiat sektor pelancongan domestik perlu bekerjasama 

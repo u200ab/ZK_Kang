@@ -1,3 +1,0 @@
-# Karangan Response Terbuka
-
-Dunia berlumba-lumba menggapai era modenisasi dengan membina pencakar langit. Oleh itu, masyarakat perlu bekerja keras untuk menjana pendapatan bagi menampung kos hidup yang semakin meningkat. Hal ini telah menyebabkan amalan hidup berjiran semakin kurang dipraktikkan. Jiran merupakan orang terdekat yang akan membantu kita apabila berlakunya kecemasan. Keadaan ini perlu diperbetul semula supaya seperti peribahasa sesat di hujung jalan, kembali ke pangkal jalan supaya semangat kejiranan tidak luntur. Izharnya, anggota masyarakat perlu mengambil tindakan untuk mengukuhkan hubungan kejiranan. 
