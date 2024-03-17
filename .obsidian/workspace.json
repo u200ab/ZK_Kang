@@ -8,21 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "23f52aaa6f88c06a",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0 Home Note.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "pinned": true
-            }
-          },
-          {
             "id": "286a0468fd7ef9e1",
             "type": "leaf",
             "pinned": true,
@@ -43,7 +28,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2 Areas/time management.md",
+                "file": "1 Projects/Managing tasks in obsidian.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -51,76 +36,12 @@
             }
           },
           {
-            "id": "d7827bfa84e7ba48",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "3 Resources/sub-files/Jawapan BM - SR1 1.pdf"
-              }
-            }
-          },
-          {
-            "id": "b889577fd8f245b7",
+            "id": "2aadaebc92098568",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4 Archives/5.1 Records/CK Ong Homework.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6626d2e307c9e6e3",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "4 Archives/5.1 Records/Records (overview).md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "pinned": true
-            }
-          },
-          {
-            "id": "3671bc175a00f7c7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0.1 Inbox/School daily homework.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c7741b3ed45d792c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "4 Archives/Inactive projects/Review Chinese Homework.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a0f14c3b08f0b526",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "4 Archives/5.1 Records/chinese tuition answers + completed work.md",
+                "file": "1 Projects/MGT.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -128,7 +49,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -248,7 +169,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4 Archives/Inactive projects/Review Chinese Homework.md",
+                "file": "1 Projects/MGT.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -265,7 +186,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4 Archives/Inactive projects/Review Chinese Homework.md",
+                "file": "1 Projects/MGT.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -288,7 +209,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4 Archives/Inactive projects/Review Chinese Homework.md"
+                "file": "1 Projects/MGT.md"
               }
             }
           }
@@ -317,37 +238,41 @@
       "daily-notes:Open today's daily note": false
     }
   },
-  "active": "67a596873c03aa5c",
+  "active": "2aadaebc92098568",
   "lastOpenFiles": [
-    "4 Archives/Inactive projects/Karangan (CK Ong).md",
-    "4 Archives/Inactive projects/BM Homework (school).md",
-    "4 Archives/Inactive projects/Review Chinese Homework.md",
-    "4 Archives/Inactive projects/Review CK Siti 12142023.md",
-    "4 Archives/5.1 Records/school work.md",
-    "4.5 records",
-    "4 Archives/5.1 Records/Records (overview).md",
-    "4 Archives/5.1 Records/Perfect Answer Sheet.md",
-    "4 Archives/5.1 Records/Pendapat tentang industri pelancongan Malaysia.md",
-    "4 Archives/5.1 Records/Miscellaneous (CK Ong).md",
-    "3 Resources/BM in general.md",
-    "3 Resources/sub-files/Conquer! Bahasa Melayu Tingkatan 3.pdf",
-    "3 Resources/school files.md",
-    "3 Resources/useful videos.md",
-    "5 unprocessed materials/coccuriculum standard (KKSM - f4,f5)/DSKP Additional Mathematics Form 4 and 5 DLP dated 29092020.pdf",
-    "0.1 Inbox/School daily homework.md",
     "2 Areas/time management.md",
+    "1 Projects/MGT.md",
+    "0.1 Inbox/Building Maps of Content (MOCs).md",
+    "0.1 Inbox/Managing projects in obsidian using dataview and tags.md",
+    "0.1 Inbox/2024-03-16.md",
+    "0.1 Inbox/see,watch later (stop when unreviewed things is more than three).md",
+    "1 Projects/Managing tasks in obsidian.md",
     "1 Projects/Bio Project - Cell Division Portfolio.md",
-    "1 Projects/Projek pendidkan seni moral.md",
     "1 Projects/1 Projects.md",
+    "0.1 Inbox/School daily homework.md",
     "0.1 Inbox/Deep rest when I'm feeling tired during the day..md",
-    "0.1 Inbox/Meditation Techniques.md",
-    "0.1 Inbox/japan books.md",
+    "0.1 Inbox/Meditation or focus training stuff.md",
     "0.1 Inbox/0 Inbox.md",
+    "Templates/Daily Note Template.md",
+    "0.1 Inbox/2024/03-March/2024-03-16-Saturday.md",
+    "0.1 Inbox/2024/03-March",
+    "0.1 Inbox/2024",
+    "3 Resources/BM in general.md",
+    "0.1 Inbox/Homework.md",
+    "3 Resources/useful videos.md",
+    "3 Resources/school files.md",
+    "Today.md",
+    "0 Home Note.md",
+    "1 Projects/sub-projects/ideas.md",
+    "4 Archives/5.1 Records/Records (overview).md",
     "4 Archives/5.1 Records/CK Ong Homework.md",
-    "4 Archives/5.1 Records/CK Ong 12032024.md",
-    "4 Archives/5.1 Records/CK Ong 09012024.md",
-    "4 Archives/5.1 Records/chinese tuition answers + completed work.md",
-    "4 Archives/5.1 Records/CK Ong 09012024 (Excalidraw).md",
+    "Untitled 1.md",
+    "timestamps",
+    "0.1 Inbox/2024/03-March/2024-03-15-Friday.md",
+    "3 Resources/sub-files/Jawapan BM - SR1 1.pdf",
+    "4.5 records",
+    "3 Resources/sub-files/Conquer! Bahasa Melayu Tingkatan 3.pdf",
+    "5 unprocessed materials/coccuriculum standard (KKSM - f4,f5)/DSKP Additional Mathematics Form 4 and 5 DLP dated 29092020.pdf",
     "5 Attachments/Pasted image 20240312193331.png",
     "5 Attachments/Pasted image 20240312192222.png",
     "5 Attachments/Pasted image 20240312191214.png",
@@ -360,11 +285,7 @@
     "5 Attachments/Pasted image 20240312182404.png",
     "3 Resources/sub-files",
     "3 Resources/sub-files/Penanda Wacana.pdf",
-    "3 Resources/sub-files/Jawapan BM - SR1 1.pdf",
     "5 unprocessed materials/notes",
-    "3 Resources/sub-files/Google Docs - Replying to a comment.mp4",
-    "3 Resources",
-    "5 unprocessed materials/textbooks/T4-T5 BT - KESUSASTERAAN CINA MINGJIA XIAOSHUOXUAN.pdf",
     "Untitled.canvas",
     "Untitled 10.canvas",
     "Untitled 9.canvas",

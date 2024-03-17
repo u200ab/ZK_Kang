@@ -1,5 +1,6 @@
 {
   "autorun": true,
   "template": "Templates/Daily Note Template",
-  "folder": "Reviews/Daily Notes"
+  "folder": "0.1 Inbox",
+  "format": ""
 }

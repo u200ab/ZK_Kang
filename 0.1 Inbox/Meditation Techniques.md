@@ -1,2 +1,0 @@
-[The documentation](https://wiki.healthygamer.gg/en/Meditation_Techniques)
-Trying to implement these techniques into my daily life and see whether I can use the principals of the techniques for something else. 

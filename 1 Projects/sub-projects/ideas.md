@@ -1,0 +1,2 @@
+- [Obsidian rocks simple and convenient guide on how to build a task management system](https://obsidian.rocks/how-to-add-tasks-to-your-daily-notes/)
+- 
